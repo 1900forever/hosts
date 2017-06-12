@@ -76,7 +76,7 @@ address=/ue.flipboard.com/23.23.66.189
 address=/admob.com/202.171.252.98
 address=/agoogleaday.com/202.171.252.98
 address=/android.com/202.171.252.98
-
+address=/blogblog.com/202.171.252.98
 address=/blogger.com/202.171.252.98
 address=/blogspot.com/202.171.252.98
 address=/chromium.org/202.171.252.98
@@ -85,7 +85,7 @@ address=/dartlang.org/202.171.252.98
 address=/dl.google.com/202.171.252.98
 address=/feedburner.com/202.171.252.98
 address=/g.co/202.171.252.98
-
+address=/ggpht.com/202.171.252.98
 address=/gcr.io/202.171.252.98
 address=/ggpht.com/202.171.252.98
 address=/gmodules.com/202.171.252.98
@@ -249,4 +249,4 @@ address=/yimg.com/119.161.14.18
 address=/yimg.jp/182.22.31.252
 
 ## 1024
-address=/t66y.com/104.25.32.1
+address=/t66y.com/104.25.32.11
